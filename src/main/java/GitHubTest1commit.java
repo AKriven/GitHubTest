@@ -7,3 +7,4 @@ public class GitHubTest1commit {
         System.out.println("Метод выполняется");
     }
 }
+//проверка коммента
